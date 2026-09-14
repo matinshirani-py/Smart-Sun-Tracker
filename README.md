@@ -717,11 +717,14 @@ docs/report/final_internship_report.pdf
 
 ------------------------------------------------------------------------
 
-```{=html}
 <p align="center">
-```
-`<strong>`{=html}☀️ Smart Sun Tracker`</strong>`{=html}`<br>`{=html}
-Real-time embedded computer vision for sun detection and tracking.
-```{=html}
+  <strong>☀️ Smart Sun Tracker</strong>
+  <br>
+  <em>Real-Time Embedded Computer Vision for Sun Detection and Tracking</em>
+  <br><br>
+  <img src="docs/images/final_output.png"
+       alt="Smart Sun Tracker Final Output"
+       width="700">
+  <br><br>
+  <sub>Built with Python • OpenCV • NumPy • Picamera2 • Raspberry Pi</sub>
 </p>
-```
