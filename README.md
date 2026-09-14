@@ -627,30 +627,6 @@ Controls the real-time tracking process, including:
 -   Visualization
 -   Animation
 
-------------------------------------------------------------------------
-
-# ⚠️ Limitations
-
-The current system intentionally uses a lightweight computer-vision
-approach rather than a machine-learning model.
-
-Important limitations include:
-
--   Very bright non-sun objects can potentially be detected.
--   Reflections and mirrors may generate strong bright contours.
--   Dynamic thresholding depends on the brightest region in the current
-    frame.
--   The system does not explicitly classify the physical sun.
--   No machine-learning model is used.
--   No Kalman filter or advanced trajectory estimator is implemented.
--   The estimated radius is based on image contour area.
--   Camera exposure and environmental illumination can affect detection.
--   No physical servo/actuator control is included in the current
-    project.
-
-These limitations define clear opportunities for future development.
-
-
 
 ------------------------------------------------------------------------
 
