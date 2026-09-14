@@ -731,31 +731,6 @@ docs/report/final_internship_report.pdf
 
 ------------------------------------------------------------------------
 
-# 📜 License
-
-Add the license selected for your repository here.
-
-For example:
-
-``` text
-This project is provided for educational and research purposes.
-```
-
-If this repository is intended for open-source distribution, replace
-this section with the complete license text or add a `LICENSE` file.
-
-------------------------------------------------------------------------
-
-# 👨‍💻 Author
-
-**\[YOUR NAME\]**
-
-Engineering Internship Project
-
-**\[University / Organization\]**
-
-------------------------------------------------------------------------
-
 ```{=html}
 <p align="center">
 ```
