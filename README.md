@@ -368,19 +368,13 @@ docs/images/final_output.png
 ```
 
 Then uncomment or replace the following image reference:
+##  Final System Output
 
-```html
-<p align="center">
-  <img src="docs/images/final_output.png"
-       alt="Smart Sun Tracker final output"
-       width="800">
-</p>
+![Smart Sun Tracker Final Output](docs/images/final_output.png)
 
 <p align="center">
-  <strong>📷 Final System Output</strong><br>
-  <em>Real-time output of the Smart Sun Tracker.</em>
+  <em>Figure — Final real-time output of the Smart Sun Tracker.</em>
 </p>
-
 ------------------------------------------------------------------------
 
 ## ▶️ Video Demonstrations
