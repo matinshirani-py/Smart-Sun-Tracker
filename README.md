@@ -520,8 +520,7 @@ smart-sun-tracker/
 │
 ├── docs/
 │   ├── images/
-│   │   ├── final_output.png
-│   │   ├── hardware_setup.png
+│   │   ├ 
 │   │   └── roi_tracking.png
 │   │
 │   └── report/
