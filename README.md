@@ -650,28 +650,7 @@ Important limitations include:
 
 These limitations define clear opportunities for future development.
 
-------------------------------------------------------------------------
 
-# 🔮 Future Improvements
-
-Possible future extensions include:
-
--   Kalman-filter-based trajectory prediction
--   Multi-frame candidate scoring
--   Circularity and solidity constraints
--   Improved sun-specific geometric filtering
--   Combined HSV and RGB features
--   Adaptive exposure control
--   Temporal filtering
--   Machine-learning-based sun classification
--   Camera calibration
--   Optical filtering
--   Higher-resolution processing where computationally feasible
--   Servo motor integration
--   Closed-loop solar-panel tracking
-
-These are **future improvements**, not components of the current
-implementation.
 
 ------------------------------------------------------------------------
 
