@@ -369,24 +369,17 @@ docs/images/final_output.png
 
 Then uncomment or replace the following image reference:
 
-```{=html}
-<!--
+```html
 <p align="center">
   <img src="docs/images/final_output.png"
        alt="Smart Sun Tracker final output"
        width="800">
 </p>
--->
-```
-```{=html}
+
 <p align="center">
-```
-`<strong>`{=html}📷 Final system output
-screenshot`</strong>`{=html}`<br>`{=html} `<em>`{=html}Replace this
-placeholder with the final output image.`</em>`{=html}
-```{=html}
+  <strong>📷 Final System Output</strong><br>
+  <em>Real-time output of the Smart Sun Tracker.</em>
 </p>
-```
 
 ------------------------------------------------------------------------
 
